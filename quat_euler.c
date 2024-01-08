@@ -8,6 +8,7 @@ double deg_rad(double ang) {
 }
 
 int main() {
+    printf("Hello");
     printf("\nThis is a program to interconvert between unit quaternion and"
     " Euler angles.\n\n");
     printf("Press 1 to convert from quaternion to corresponding "
